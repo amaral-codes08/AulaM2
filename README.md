@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Site</title>
+</head>
+<body>
+    <h1>hello word</h1>
+    <h2> oi pessoal</h2>
+    <h3>fala galera</h3>
+    <h4> Oi meu nome é amaral</h4>
+    <h5>Fala tropa
+    <h6>Fala pessoal</h6>
+    
+    <p> oi rapaziada, eu sou o paragrafo</p>
+</body>
+</html>
